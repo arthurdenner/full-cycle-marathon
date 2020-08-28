@@ -8,3 +8,11 @@ Learn more about the event [at official website](https://maratona.fullcycle.com.
 
 - Day #1
   - [Challenge #1](./challenge-1/README.md)
+- Day #2
+  - [Challenge #2](./challenge-2/README.md)
+- Day #3
+  - [Challenge #3](./challenge-3/README.md)
+
+## Source code
+
+The project analyzed during the event can be found [at this repository](https://github.com/codeedu/maratona-fullcycle-4).
