@@ -14,4 +14,4 @@ Build the image:
 
 Run the image:
 
-`docker run -it -p 3000:3000 fcm-challenge-4`
+`docker run -p 3000:3000 fcm-challenge-4`
