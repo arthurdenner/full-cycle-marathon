@@ -14,6 +14,8 @@ Learn more about the event [at official website](https://maratona.fullcycle.com.
   - [Challenge #3](./challenge-3/README.md)
 - Day #4
   - [Challenge #4](./challenge-4/README.md)
+- Day #5
+  - [Challenge #5](./challenge-5/README.md)
 
 ## Source code
 
